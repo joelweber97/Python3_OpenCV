@@ -17,7 +17,7 @@
 
 # In[1]:
 
-
+'''
 import cv2
 import numpy as np
 
@@ -93,7 +93,7 @@ cv2.destroyAllWindows()
 
 
 # In[20]:
-
+'''
 
 import cv2
 import numpy as np
